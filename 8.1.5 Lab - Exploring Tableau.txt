@@ -1,0 +1,22 @@
+Click one of the Abc icons to see all data type options. 
+What field types are available for data, not counting Default or any of the Roles?
+
+Answer. The fields that are available are string, bolean, date and time , Number (decimal and whole)
+
+What year had the highest amount of revenue?
+Answer. 2016
+
+What happens when you drag the second field to the Rows line?
+Theres a seecond chart
+
+
+What is a benefit of presenting the Revenue and Popularity in this manner?
+a// Its an easy comparison, because we visualize the popularity and the revenue.
+
+Does this chart provide insight into the relationship between popularity and revenue? Why or why not?
+A//Since the bars are separate you can kind of see the correlation but it doesn’t directly show whether high popularity leads to high revenue or not.
+
+
+Experiment with different types of visualizations. If it was necessary to show a correlation between popularity and revenue, which type of visualization would you select? Explain.
+
+A//  Scatter plot is the best choice for visualizing the correlation between popularity and revenue thats because we can identify trends.
